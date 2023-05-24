@@ -1,4 +1,4 @@
-package com.projecttrial;
+package com.project_to_do;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
