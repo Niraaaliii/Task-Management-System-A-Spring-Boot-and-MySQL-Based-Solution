@@ -1,6 +1,3 @@
-Sure, here is the README.md for your To-do list project:
-
-
 # To-Do List Project
 
 This project is a simple To-do list application that allows users to create, read, update, and delete To-do items. The application is built using Spring Boot and MySQL, and it is tested using Postman.
