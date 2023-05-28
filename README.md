@@ -15,7 +15,7 @@ Once you have installed the necessary software, you can follow these steps to ge
 
 1. Clone the project from GitHub:
 
-
+```
 git clone https://github.com/Niraaaliii/To-Do-Project.git
 ```
 
