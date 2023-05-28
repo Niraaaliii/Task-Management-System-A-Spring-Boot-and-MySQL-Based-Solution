@@ -52,4 +52,3 @@ The To-do list application can be tested using Postman.
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [MySQL](https://www.mysql.com/)
 * [Postman](https://www.postman.com/)
-```
