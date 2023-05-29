@@ -39,10 +39,6 @@ spring.datasource.password=password
 
 Once the application is running, you can access it at `http://localhost:8080`.
 
-## API Documentation
-
-The API documentation for the To-do list application is available at `http://localhost:8080/v2/api-docs`.
-
 ## Testing
 
 The To-do list application can be tested using Postman. 
