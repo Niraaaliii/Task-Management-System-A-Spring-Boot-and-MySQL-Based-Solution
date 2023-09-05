@@ -1,4 +1,4 @@
-# To-Do List Project
+# Task Management System: A Spring Boot and MySQL-Based Solution
 
 This project is a simple To-do list application that allows users to create, read, update, and delete To-do items. The application is built using Spring Boot and MySQL, and it is tested using Postman.
 
